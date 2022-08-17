@@ -1,5 +1,5 @@
 ![20180420_205843](https://user-images.githubusercontent.com/104323543/185155775-9a2b2397-0f96-4664-ac57-dafe55c00073.jpg)
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolry1031]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolry1031)](https://github.com/coolry1031/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolry1031)]
 ## A little about Me:
 I am a Full-stack web developer who was a former Head Brewer. I am driven by creativity within a team-like atmosphere. I am passionate about finding creative solutions for ordinary problems. Working with people, learning from people and leading people allows me to seek new challenges while being able to apply my extraordinary skill set.
